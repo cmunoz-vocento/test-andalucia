@@ -1,0 +1,115 @@
+ccaa,tipo_eleccion,fecha,orden,participacion,pct_psoe_validos
+Andalucía,Municipales,mayo 2019,1,61.41,36.92
+Andalucía,Generales,noviembre 2019,3,65.91,33.36
+Andalucía,Autonómicas,Autonómicas 2022,4,56.56,24.1
+Andalucía,Municipales,mayo 2023,5,61.39,33.38
+Andalucía,Generales,julio 2023,7,66.61,33.48
+Andalucía,Autonómicas,Autonómicas 2026,8,64.84,22.72
+Aragón,Municipales,mayo 2019,1,68.27,32.88
+Aragón,Autonómicas,mayo 2019,2,66.16,31.18
+Aragón,Generales,noviembre 2019,3,69.34,30.72
+Aragón,Municipales,mayo 2023,5,68.78,29.84
+Aragón,Autonómicas,mayo 2023,6,66.54,29.55
+Aragón,Generales,julio 2023,7,70.71,31.12
+Aragón,Autonómicas,Autonómicas 2026,8,65.09,24.84
+Asturias,Municipales,mayo 2019,1,62.44,35.31
+Asturias,Autonómicas,mayo 2019,2,55.12,34.93
+Asturias,Generales,noviembre 2019,3,58.12,33.27
+Asturias,Municipales,mayo 2023,5,64.41,32.07
+Asturias,Autonómicas,mayo 2023,6,56.85,35.61
+Asturias,Generales,julio 2023,7,62.9,34.34
+Baleares,Municipales,mayo 2019,1,54.98,24.23
+Baleares,Autonómicas,mayo 2019,2,53.92,34.48
+Baleares,Generales,noviembre 2019,3,56.81,25.44
+Baleares,Municipales,mayo 2023,5,56.73,23.51
+Baleares,Autonómicas,mayo 2023,6,55.11,26.53
+Baleares,Generales,julio 2023,7,61.32,30.16
+Canarias,Municipales,mayo 2019,1,56.82,26.86
+Canarias,Autonómicas,mayo 2019,2,57.43,28.85
+Canarias,Generales,noviembre 2019,3,55.44,28.88
+Canarias,Municipales,mayo 2023,5,56.48,26.93
+Canarias,Autonómicas,mayo 2023,6,52.0,26.21
+Canarias,Generales,julio 2023,7,58.18,33.34
+Cantabria,Municipales,mayo 2019,1,70.77,24.23
+Cantabria,Autonómicas,mayo 2019,2,65.71,17.61
+Cantabria,Generales,noviembre 2019,3,65.74,23.24
+Cantabria,Municipales,mayo 2023,5,70.44,22.56
+Cantabria,Autonómicas,mayo 2023,6,65.32,20.61
+Cantabria,Generales,julio 2023,7,69.94,33.3
+Castilla y León,Municipales,mayo 2019,1,71.09,33.12
+Castilla y León,Autonómicas,mayo 2019,2,65.8,35.21
+Castilla y León,Generales,noviembre 2019,3,66.61,31.27
+Castilla y León,Autonómicas,Autonómicas 2022,4,58.75,29.77
+Castilla y León,Municipales,mayo 2023,5,68.07,31.14
+Castilla y León,Generales,julio 2023,7,69.41,32.34
+Castilla y León,Autonómicas,Autonómicas 2026,8,60.63,30.81
+Castilla-La Mancha,Municipales,mayo 2019,1,70.69,43.04
+Castilla-La Mancha,Autonómicas,mayo 2019,2,67.98,44.1
+Castilla-La Mancha,Generales,noviembre 2019,3,70.06,33.1
+Castilla-La Mancha,Municipales,mayo 2023,5,71.01,41.04
+Castilla-La Mancha,Autonómicas,mayo 2023,6,69.6,45.04
+Castilla-La Mancha,Generales,julio 2023,7,72.99,34.16
+Cataluña,Municipales,mayo 2019,1,64.81,22.0
+Cataluña,Generales,noviembre 2019,3,69.4,20.5
+Cataluña,Autonómicas,Autonómicas 2021,4,51.29,23.03
+Cataluña,Municipales,mayo 2023,5,55.56,23.75
+Cataluña,Generales,julio 2023,7,62.68,34.47
+Cataluña,Autonómicas,Autonómicas 2024,8,55.31,28.28
+Ceuta,Municipales,mayo 2019,1,56.91,25.6
+Ceuta,Generales,noviembre 2019,3,53.98,31.31
+Ceuta,Municipales,mayo 2023,5,54.79,21.0
+Ceuta,Generales,julio 2023,7,53.19,34.01
+Comunidad Valenciana,Municipales,mayo 2019,1,64.55,31.38
+Comunidad Valenciana,Autonómicas,mayo 2019,2,73.72,24.24
+Comunidad Valenciana,Generales,noviembre 2019,3,69.8,27.6
+Comunidad Valenciana,Municipales,mayo 2023,5,68.58,30.03
+Comunidad Valenciana,Autonómicas,mayo 2023,6,66.96,28.7
+Comunidad Valenciana,Generales,julio 2023,7,71.5,32.13
+Extremadura,Municipales,mayo 2019,1,71.47,45.82
+Extremadura,Autonómicas,mayo 2019,2,69.26,46.15
+Extremadura,Generales,noviembre 2019,3,67.22,38.33
+Extremadura,Municipales,mayo 2023,5,72.56,42.21
+Extremadura,Autonómicas,mayo 2023,6,70.35,39.86
+Extremadura,Generales,julio 2023,7,71.67,39.08
+Extremadura,Autonómicas,Autonómicas 2026,8,60.8,25.77
+Galicia,Municipales,mayo 2019,1,67.82,32.86
+Galicia,Generales,noviembre 2019,3,55.86,31.25
+Galicia,Autonómicas,Autonómicas 2020,4,48.97,19.48
+Galicia,Municipales,mayo 2023,5,65.63,29.19
+Galicia,Generales,julio 2023,7,61.41,29.76
+Galicia,Autonómicas,Autonómicas 2024,8,56.27,10.07
+La Rioja,Municipales,mayo 2019,1,70.02,38.87
+La Rioja,Autonómicas,mayo 2019,2,65.94,38.67
+La Rioja,Generales,noviembre 2019,3,66.96,34.85
+La Rioja,Municipales,mayo 2023,5,72.24,32.45
+La Rioja,Autonómicas,mayo 2023,6,67.79,31.9
+La Rioja,Generales,julio 2023,7,70.19,35.68
+Madrid,Municipales,mayo 2019,1,67.65,20.98
+Madrid,Autonómicas,mayo 2019,2,64.3,27.31
+Madrid,Generales,noviembre 2019,3,70.59,26.87
+Madrid,Autonómicas,Autonómicas 2021,4,74.74,16.8
+Madrid,Municipales,mayo 2023,5,69.53,21.59
+Madrid,Autonómicas,mayo 2023,6,65.5,18.18
+Madrid,Generales,julio 2023,7,69.66,27.84
+Melilla,Municipales,mayo 2019,1,63.4,14.41
+Melilla,Generales,noviembre 2019,3,52.39,16.45
+Melilla,Municipales,mayo 2023,5,49.46,10.78
+Melilla,Generales,julio 2023,7,45.24,25.39
+Navarra,Municipales,mayo 2019,1,71.8,17.09
+Navarra,Autonómicas,mayo 2019,2,72.18,20.63
+Navarra,Generales,noviembre 2019,3,65.91,25.0
+Navarra,Municipales,mayo 2023,5,67.79,15.75
+Navarra,Autonómicas,mayo 2023,6,64.45,16.65
+Navarra,Generales,julio 2023,7,66.37,27.37
+País Vasco,Municipales,mayo 2019,1,65.97,16.52
+País Vasco,Generales,noviembre 2019,3,66.43,19.21
+País Vasco,Autonómicas,Autonómicas 2020,4,52.86,13.42
+País Vasco,Municipales,mayo 2023,5,60.16,16.21
+País Vasco,Generales,julio 2023,7,65.09,25.27
+País Vasco,Autonómicas,Autonómicas 2024,8,60.02,14.09
+Región de Murcia,Municipales,mayo 2019,1,63.72,32.97
+Región de Murcia,Autonómicas,mayo 2019,2,62.3,32.47
+Región de Murcia,Generales,noviembre 2019,3,68.03,24.78
+Región de Murcia,Municipales,mayo 2023,5,65.08,28.03
+Región de Murcia,Autonómicas,mayo 2023,6,63.25,25.63
+Región de Murcia,Generales,julio 2023,7,68.68,25.3
